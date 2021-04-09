@@ -3,7 +3,7 @@
 Проект выполнил Смирнов Кирилл.
 
 ##  Используемые технологии:
--HTML
--CSS
--Normalize.css
--SVG Sprites
+- HTML
+- CSS
+- Normalize.css
+- SVG Sprites
